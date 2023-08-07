@@ -1,17 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-  <h3>Hi! I'm Bruno.</h3>
-  <p>Hello! I'm Bruno, a student of Software Engineering, and this is my repository on GitHub. Here you will find some of my personal projects as I strive to improve my skills by collaborating on different projects.</p>
+![Hello! I'am Bruno](banner.jpg)
+--
+<p align="left" width="100">Hello! I'm Bruno, a student of Software Engineering, and this is my repository on GitHub. Here, you will find some of my personal projects as I strive to improve my skills by collaborating on different projects.
+</p>
 
-  <div>
-    <a href="https://github.com/brunomascioli">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=brunomascioli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomascioli&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-    
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge">
-</body>
-</html>
+---
+<div align="left">
+  <a href="https://github.com/brunomascioli">
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=brunomascioli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </br>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomascioli&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+  ---
+
+<div>
+  <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python badge" height="70">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML badge" height="70"> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS badge" height="90">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git badge" height="70">
+</div>
