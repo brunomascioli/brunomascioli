@@ -3,13 +3,11 @@
 ---
 
 ## About Me
-
 I am a Software Engineering student, and this is my repository on GitHub. Here, you will find some of my personal projects as I strive to improve my skills by collaborating on different projects.
 
 ---
 
 ## Stack
-
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python badge" height="50">
