@@ -1,27 +1,53 @@
-![Hello! I'am Bruno](banner.jpg)
---
-<p align="left" width="100">Hello! I'm Bruno, a student of Software Engineering, and this is my repository on GitHub. Here, you will find some of my personal projects as I strive to improve my skills by collaborating on different projects.
-</p>
+![Hello! I'm Bruno](banner.jpg)
+
 ---
 
-<div align="left">
-  <a href="https://github.com/brunomascioli">
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=brunomascioli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomascioli&layout=compact&langs_count=7&theme=dracula"/>
+## About Me
+
+I am a Software Engineering student, and this is my repository on GitHub. Here, you will find some of my personal projects as I strive to improve my skills by collaborating on different projects.
+
+---
+
+## Stack
+
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python badge" height="50">
   </a>
-</div>
-
-<div>
-  <h2>Main skills</h2>
-  <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python badge" height="70">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML badge" height="70"> 
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS badge" height="90">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git badge" height="70">
-</div>
-
-<div>
-  <h2>Studying at the moment</h2>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node badge" height="70">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB badge" height="70">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express badge" height="70">
-</div>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git badge" height="50">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker badge" height="50">
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java badge" height="50">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot badge" height="50">
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI badge" height="50">
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React badge" height="50">
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node badge" height="50">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB badge" height="50">
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express badge" height="50">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript badge" height="50">
+  </a>
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C badge" height="50">
+  </a>
+</p>
